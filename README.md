@@ -7,13 +7,13 @@
 - 💬 Ask me about Java, BigData, Career planning
 - 💬 可以向我咨询：Java、大数据、职业规划，个人简历等
 - 📫 How to reach me: [![Mail Badge](https://img.shields.io/badge/-healchow@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:healchow@gmail.com)](mailto:healchow@gmail.com) <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
-- 📫 我的联系方式：healchow@gmail.com ，或公众号 [瘦风的南墙](https://mp.weixin.qq.com/s/EPUA_78SNmVqoCB4CcrJag)
+- 📫 我的联系方式：healchow@gmail.com，公众号 [瘦风的南墙](https://mp.weixin.qq.com/s/EPUA_78SNmVqoCB4CcrJag)
 
 
 ## 网站传送门
 
 1. [个人网站 https://healchow.com](https://healchow.com)
-2. [公众号 https://mp.weixin.qq.com/s/EPUA_78SNmVqoCB4CcrJag](https://mp.weixin.qq.com/s/EPUA_78SNmVqoCB4CcrJag)
+2. [公众号 瘦风的南墙](https://mp.weixin.qq.com/s/EPUA_78SNmVqoCB4CcrJag)
 3. [博客园 https://www.cnblogs.com/shoufeng](https://www.cnblogs.com/shoufeng)  [![Blog Badge](https://img.shields.io/badge/blog-120w%20pageview-brightgreen)](https://www.cnblogs.com/shoufeng)
 
 
