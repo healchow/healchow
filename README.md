@@ -14,7 +14,7 @@
 
 1. [公众号 瘦风的南墙](https://mp.weixin.qq.com/s/EPUA_78SNmVqoCB4CcrJag)
 2. [个人网站 healchow.com](https://healchow.com)
-3. [博客园 https://www.cnblogs.com/shoufeng](https://www.cnblogs.com/shoufeng)  [![Blog Badge](https://img.shields.io/badge/blog-120w%20pageview-brightgreen)](https://www.cnblogs.com/shoufeng)
+3. [博客园 cnblogs.com/shoufeng](https://www.cnblogs.com/shoufeng)  [![Blog Badge](https://img.shields.io/badge/blog-150w%20pageview-brightgreen)](https://www.cnblogs.com/shoufeng)
 
 
 ### 统计信息
