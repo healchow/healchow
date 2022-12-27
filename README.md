@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=healchow&show_icons=true&theme=vue" alt="healchow's github stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=healchow&show_icons=true&theme=vue" width=40% alt="healchow's github stats" />
 
 ### 你好，我是 [HealChow](https://healchow.com) 👋 
 
