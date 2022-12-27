@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=healchow&show_icons=true&theme=vue" width=40% alt="healchow's github stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=healchow&show_icons=true&theme=vue" width=50% alt="healchow's github stats" />
 
 ### 你好，我是 [HealChow](https://healchow.com) 👋 
 
@@ -20,3 +20,4 @@
 [![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=healchow&layout=compact&hide=HTML)](https://github.com/healchow/)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=inlong)](https://github.com/apache/inlong)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bytedance&repo=bitsail)](https://github.com/bytedance/bitsail)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=healchow&repo=bigdata-study)](https://github.com/healchow/bigdata-study)
+....
